@@ -1,0 +1,4 @@
+Method,Mean ± Std (m),Improvement over baseline (%)
+Geometric Triangulation,0.0115,0.0
+MLP Refined,0.0117 ± 0.0004,-1.7520575962537384
+Transformer Refined,0.0085 ± 0.0010,26.052957681629294

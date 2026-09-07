@@ -1,0 +1,4 @@
+Method,Mean ± Std (m),Improvement over baseline (%)
+Naive Interpolation,0.0122,0.0
+MLP Gap Filling,0.0127 ± 0.0003,-4.367501695640146
+Transformer Gap Filling,0.0111 ± 0.0010,8.694007068258895
