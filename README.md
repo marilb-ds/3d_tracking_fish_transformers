@@ -1,5 +1,7 @@
 # Multi-View 3D Fish Tracking
 
+[![DOI](https://zenodo.org/badge/1308073187.svg)](https://doi.org/10.5281/zenodo.22646946)
+
 This repository contains the code developed for my Master's thesis on multi-view 3D fish tracking.
 
 The project investigates the reconstruction of 3D fish trajectories from synchronized observations obtained from three cameras. The pipeline combines geometric triangulation with learning-based refinement using a Multi-Layer Perceptron (MLP) and a Transformer model.
@@ -154,3 +156,4 @@ Install the required packages with:
 
 ```bash
 python -m pip install -r requirements.txt
+
