@@ -1,4 +1,3 @@
-# 3d_tracking_fish_transformers
 # Multi-View 3D Fish Tracking
 
 This repository contains the code developed for my Master's thesis on multi-view 3D fish tracking.
